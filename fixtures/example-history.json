@@ -1,0 +1,10 @@
+{
+  "title": "Example: Monday CRM shortlist (synthetic)",
+  "turns": [
+    {
+      "question": "Please shortlist 5 CRM tools for a 20-person sales team. We use USD and want to compare annual billing.",
+      "answer": "Our shortlist is HubSpot, Pipedrive, Zoho CRM, Salesforce, and Freshsales. Compare the entry paid sales tier, annual USD billing, and 20 full sales seats. This example does not establish any historical prices; those remain unknown.",
+      "createdAt": "2026-11-16T10:00:00Z"
+    }
+  ]
+}

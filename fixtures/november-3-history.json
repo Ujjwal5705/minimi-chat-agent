@@ -1,0 +1,15 @@
+{
+  "title": "Example: 3 November discussion (synthetic)",
+  "turns": [
+    {
+      "question": "What should I check before choosing managed Postgres for a small SaaS?",
+      "answer": "Compare Neon and Supabase. Check compute, storage, backups, connection pooling, region, and usage charges separately. We did not record exact prices or current-source citations in this example.",
+      "createdAt": "2026-11-03T09:00:00Z"
+    },
+    {
+      "question": "What does transaction isolation mean?",
+      "answer": "Isolation controls which effects of concurrent transactions are visible to one another. Serializable provides the strongest standard isolation but transactions can need retries.",
+      "createdAt": "2026-11-03T11:30:00Z"
+    }
+  ]
+}

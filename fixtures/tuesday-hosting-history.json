@@ -1,0 +1,10 @@
+{
+  "title": "Example: Tuesday Postgres hosting (synthetic)",
+  "turns": [
+    {
+      "question": "Compare Neon, Supabase, and Render for hosting Postgres for a small SaaS. We care about USD monthly cost, backup retention, and scale-to-zero.",
+      "answer": "Consider Neon, Supabase, and Render. Compare the smallest paid production-suitable configuration on a monthly USD basis. Keep compute, storage, transfer, and backups separate. We did not verify or save exact historical prices in this synthetic example.",
+      "createdAt": "2026-11-17T09:30:00Z"
+    }
+  ]
+}
